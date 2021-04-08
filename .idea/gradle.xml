@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Battleship/task" />
+            <option value="$PROJECT_DIR$/Problems/Account" />
+            <option value="$PROJECT_DIR$/Problems/Arithmetic average" />
+            <option value="$PROJECT_DIR$/Problems/Binary search" />
+            <option value="$PROJECT_DIR$/Problems/Book" />
+            <option value="$PROJECT_DIR$/Problems/The third row" />
+            <option value="$PROJECT_DIR$/Topics/Files/Are siblings" />
+            <option value="$PROJECT_DIR$/Topics/Files/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Account" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Book" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Getting the fullname" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Classes for Hospital" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Input streams/Convert to bytes" />
+            <option value="$PROJECT_DIR$/Topics/Input streams/Count words" />
+            <option value="$PROJECT_DIR$/Topics/Input streams/Reverse input text" />
+            <option value="$PROJECT_DIR$/Topics/Input streams/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Guest list of a hotel" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Hiring a chef" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/A simple calculator" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Floor-space of the room" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/From string to a number" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Test learners" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/The length of the sequence" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/The sum of elements" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

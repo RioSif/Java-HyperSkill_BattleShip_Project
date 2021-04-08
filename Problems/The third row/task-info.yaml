@@ -1,0 +1,20 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class ArrayOperations {
+        public static void printTheThirdRow(int[][] twoDimArray) {
+            // write your code here
+
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12440#comment
+status: Failed
+feedback:
+  message: "Failed test #1 of 4. Runtime error\n\nError:\nException in thread \"main\"\
+    \ java.lang.ArrayIndexOutOfBoundsException: Index 2 out of bounds for length 2\n\
+    \tat ArrayOperations.printTheThirdRow(Main.java:7)\n\tat Main.main(Main.java:46)\n"
+  time: Tue, 23 Mar 2021 23:20:24 UTC
+record: -1
