@@ -42,7 +42,7 @@ while (i &lt; 5) {
 }</code></pre> 
   <p>The program takes the first letter <code class="language-java">'A'</code> and then goes on like this:</p> 
   <ul> 
-   <li>if the <code class="language-java">letter</code> is less or equal to <code class="language-java">'Z'</code> the program go to the loop's body;</li> 
+   <li>if the <code class="language-java">letter</code> is less than or equal to <code class="language-java">'Z'</code> the program goes to the loop's body;</li> 
    <li>inside the body, it prints the current character and <code class="language-java">letter</code> takes the next alphabet letter.</li> 
   </ul> 
   <p>The program prints:</p> 
@@ -89,7 +89,7 @@ while (i &lt; 5) {
   <p></p> 
   <p>In practice, the <strong>do-while</strong> loop is used less than the <strong>while </strong>loop. It is assumed that the program will be executed at least once, repeated execution is optional.</p> 
   <h2 style="text-align: center;">Reading a sequence with an unknown length</h2> 
-  <p>The <code class="language-java">while</code> loop can also be used to read a sequence of characters of an arbitrary length. For that, we can invoke <code class="language-java">hasNext()</code> method of <code class="language-java">Scanner</code> inside the condition. The method returns <code class="language-java">true</code> if the next element exists and <code class="language-java">false</code> otherwise.</p> 
+  <p>The <code class="language-java">while</code> loop can also be used to read a sequence of characters of an arbitrary length. For that, we can invoke the <code class="language-java">hasNext()</code> method of <code class="language-java">Scanner</code> inside the condition. The method returns <code class="language-java">true</code> if the next element exists and <code class="language-java">false</code> otherwise.</p> 
   <p>Here is a code that calculates the sum of all elements from the provided sequence:</p> 
   <pre><code class="language-java">Scanner scanner = new Scanner(System.in);
 
@@ -103,6 +103,6 @@ System.out.println(sum);</code></pre>
   <p>If the input sequence is <code class="language-java">1 2 3</code>, the code prints <code class="language-java">6</code>, if it is <code class="language-java">5 18 9 23 4</code>, the code prints <code class="language-java">59</code>.</p> 
   <p>As you see, the <strong>while</strong> loop can be used to solve different interesting tasks in your programs.</p> 
   <h2>Conclusion</h2> 
-  <p>There are different ways to perform some fragment of your code several times. In this topic, we've discussed two alternative ways to use loops that are based on the conditional statement evaluation. If you want to check the condition first, and based on the result perform the operations or ignore them at all, <strong>while </strong>loop is your choice. If you want to do one iteration of the loop in any case and then evaluate the condition for repetition, then choose <strong>do-while</strong>. Both types of loops can be used to read the sequence from the standard input: for <strong>do-while</strong>, you may use some stop-value to terminate the loop, for <strong>while</strong>, use the <code class="language-java">hasNext()</code> to check that the input is over.</p>
+  <p>There are different ways to perform some fragment of your code several times. In this topic, we've discussed two alternative ways to use loops that are based on conditional statement evaluation. If you want to check the condition first, and based on the result perform the operations or ignore them at all, the <strong>while </strong>loop is your choice. If you want to do one iteration of the loop in any case and then evaluate the condition for repetition, then choose <strong>do-while</strong>. Both types of loops can be used to read a sequence from the standard input: for <strong>do-while</strong>, you may use some stop value to terminate the loop, for <strong>while</strong>, use the <code class="language-java">hasNext()</code> method to check that the input is over.</p>
  </body>
 </html>

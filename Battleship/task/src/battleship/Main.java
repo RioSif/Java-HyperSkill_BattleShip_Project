@@ -6,8 +6,7 @@ public class Main {
         // Write your code here
         Board a = new Board();
        // a.drawBoard();
-        int i = Integer.MAX_VALUE;
-        System.out.println(i);
+
 
 
 
