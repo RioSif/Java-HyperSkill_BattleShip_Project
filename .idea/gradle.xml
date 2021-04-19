@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="13" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/Are siblings" />
+            <option value="$PROJECT_DIR$/Problems/Area of parallelogram" />
+            <option value="$PROJECT_DIR$/Problems/Car" />
+            <option value="$PROJECT_DIR$/Problems/Catching some exceptions" />
+            <option value="$PROJECT_DIR$/Problems/Change identities" />
+            <option value="$PROJECT_DIR$/Problems/Complex numbers" />
+            <option value="$PROJECT_DIR$/Problems/Complex numbers (1)" />
+            <option value="$PROJECT_DIR$/Problems/Creating instances" />
+            <option value="$PROJECT_DIR$/Problems/Cyclically shifting elements" />
+            <option value="$PROJECT_DIR$/Problems/Days of the week" />
+            <option value="$PROJECT_DIR$/Problems/Getting input" />
+            <option value="$PROJECT_DIR$/Problems/Points on the 2D plane" />
+            <option value="$PROJECT_DIR$/Problems/Preparing full name" />
+            <option value="$PROJECT_DIR$/Problems/String to double conversion" />
+            <option value="$PROJECT_DIR$/Problems/The sequence" />
+            <option value="$PROJECT_DIR$/Problems/The smallest value" />
+            <option value="$PROJECT_DIR$/Problems/Throw a checked exception" />
+            <option value="$PROJECT_DIR$/Problems/Throw an unchecked exception" />
+            <option value="$PROJECT_DIR$/Problems/Triangle" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
